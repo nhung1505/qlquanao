@@ -1,0 +1,132 @@
+body{
+
+}
+#banner{
+    margin-bottom: 50px;
+}
+#logo{
+    margin-top: 20px;
+}
+#searchform{
+    margin-top: 35px;
+    margin-left: 30px;
+}
+#hotline{
+    margin-top: 30px;
+}
+#iconsp{
+    float: left;
+}
+#infosp{
+    float: left;
+}
+#searchtext{
+    width: 70%;
+    border: 1px solid orangered;
+}
+.navbar{
+    background-color: orangered;
+}
+.menutext{
+    color: black;
+}
+.icon-bar{
+    color: white;
+}
+.nav navbar-right{
+    padding-bottom: 10px;
+}
+#breadcrumb{
+    margin-right: auto;
+    margin-left: auto;
+}
+#content{
+    margin-bottom: 50px;
+}
+#imageproduct{
+    padding-left: 0px;
+    float: left;
+}
+/*slide san pham*/
+.bx-wrapper .bx-pager {
+    bottom: -95px;
+}
+
+.bx-wrapper .bx-pager a {
+    border: solid #ccc 1px;
+    display: block;
+    margin: 0 5px -70px 5px;
+    padding: 3px;
+}
+
+.bx-wrapper .bx-pager a:hover,
+.bx-wrapper .bx-pager a.active {
+    border: solid #5280DD 1px;
+}
+
+.bx-wrapper {
+    margin-bottom: 120px;
+}
+/*slide san pham*/
+#product{
+    float: left;
+}
+#product hr{
+    width: 100%;
+}
+#productname{
+    font-size: 20px;
+    font-family: Arial;
+}
+#tab{
+    /*float: none;*/
+    clear: both;
+}
+#soluong{
+    width: 80px;
+}
+#price{
+    color: red;
+    font-size: 20px;
+}
+#buy{
+    float: left;
+}
+#buttonbuy{
+    float: left;
+}
+#buttoncredit{
+    float: left;
+}
+#number{
+    float: left;
+    padding-top: 10px;
+    height: 50px;
+    text-align: center;
+}
+#numberform{
+    margin-left: 10px;
+    float: left;
+    height: 50px;
+}
+#soluong{
+    margin: auto;
+    height: 40px;
+}
+#bought{
+    margin-left: 25px;
+    width: 150px;
+    height: 40px;
+}
+#credit{
+    margin-left: 25px;
+    width: 150px;
+    height: 40px;
+}
+.donvithanhtoan{
+    float: left;
+    margin-left: 25px;
+    margin-bottom: 5px;
+    width: 150px;
+    height: 40px;
+}

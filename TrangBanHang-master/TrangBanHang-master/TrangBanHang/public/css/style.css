@@ -1,0 +1,149 @@
+body{
+    font-family: Tahoma;
+    font-size: 15px;
+    width: auto;
+}
+.danhsach ul li{
+    text-decoration: none;
+    list-style: none;
+    display: inline-block;
+}
+.banner{
+    background-color: #F7F8F9;
+    padding-top: 10px;
+}
+.khung{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.khungnho{
+    padding: 5px;
+    margin: 5px;
+}
+.list-group .tieude{
+    background-color: #FF5C01;
+    font-size: 19px;
+    color: white;
+}
+.tieude{
+    font-size: 19px;
+}
+.menu{
+    background-color: #FF5C01;
+    color: black;
+    border: none;
+}
+.dropdown-menu{
+    background-color: #F1F6F8;
+    z-index: 9999999999;
+}
+.navbar-header form{
+    padding-top: 7px;
+    padding-right: 10px;
+}
+.menu .dropdown-menu li a{
+    color: black;
+}
+.collapse .nav li a{
+    color: white;
+}
+.collapse .nav li a:hover{
+    background-color: #F1F6F8;
+    color: black;
+}
+.collapse .nav .dropdown .dropdown-toggle:hover{
+    background-color:#F1F6F8 ;
+    color: black;
+
+}
+.collapse .nav .dropdown .dropdown-menu li a{
+    color: black;
+}
+.collapse .nav .dropdown .dropdown-menu li{
+    border-bottom: 2px solid white;
+    height: 50px;
+    width: 200px;
+
+
+}
+.collapse .nav .dropdown .dropdown-menu li a:hover{
+    color: #FF5C01;
+}
+.list-group-item .dropdown-menu li a:hover{
+    color: #FF5C01;
+}
+
+.list-group-item .dropdown-menu li{
+    height: 50px;
+}
+.list-group .ds{
+    height: 50px;
+    line-height: 40px;
+    background-color: #F7F8F9;
+}
+.list-group .ds a{
+    color: black;
+}
+.list-group .ds a:hover{
+    color: #FF5C01;
+}
+.footer-over{
+    background-color: #F1F6F8;
+    margin-top: 10px;
+    border: 1px solid #DDDDDD;
+
+}
+.footer-below{
+    background-color: black;
+    color: gray;
+    padding: 5px;
+    margin: 0px;
+    text-align: center;
+}
+footer{
+    width: 100%;
+    background-color: #F7F8F9;
+    padding: 10px;
+
+}
+.red_hover:hover{
+    color: #FF5C01;
+    text-decoration: none;
+}
+a{
+    color: black;
+}
+.gia{
+    color: #FF5C01;
+    font-family: Tahoma;
+    font-size: 14px;
+}
+.select{
+    padding: 8px;
+    border: 1px solid #FF5C01;
+    color: #FF5C01;
+}
+.select:hover{
+    background-color: #FF5C01;
+    color: white;
+    text-decoration: none;
+}
+.row{
+    padding-top: 10px;
+    padding-bottom: 5px;
+    margin-top: 5px;
+}
+.gach_duoi{
+    background-color: #FF5C01;
+    height: 2px;
+    width: 50%;
+}
+.gach_full{
+    background-color: #FF5C01;
+    height: 2px;
+}
+.height{
+    height:50px;
+}
